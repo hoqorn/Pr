@@ -1,17 +1,4 @@
-# Real-time Face Recognition Web Application
 
-This is a web-based application that performs real-time face recognition and movement detection using Face-API.js and Flask.
-
-## Features
-- Real-time face detection
-- Facial landmark detection
-- Expression recognition
-- Live camera feed processing
-
-## Setup Instructions
-
-1. Install the required Python packages:
-```bash
 pip install -r requirements.txt
 ```
 
